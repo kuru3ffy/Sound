@@ -13,6 +13,7 @@
 		16F2744A2646630800E824FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F274482646630800E824FB /* Main.storyboard */; };
 		16F2744C2646630C00E824FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16F2744B2646630C00E824FB /* Assets.xcassets */; };
 		16F2744F2646630D00E824FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F2744D2646630D00E824FB /* LaunchScreen.storyboard */; };
+		16F90CA32647DCA900F47F43 /* countIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 16F90CA22647DCA900F47F43 /* countIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		16F2744B2646630C00E824FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16F2744E2646630D00E824FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16F274502646630D00E824FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16F90CA22647DCA900F47F43 /* countIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = countIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				16F274462646630800E824FB /* ViewController.swift */,
 				16F274482646630800E824FB /* Main.storyboard */,
 				16F2744B2646630C00E824FB /* Assets.xcassets */,
+				16F90CA22647DCA900F47F43 /* countIcon.png */,
 				16F2744D2646630D00E824FB /* LaunchScreen.storyboard */,
 				16F274502646630D00E824FB /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				16F2744F2646630D00E824FB /* LaunchScreen.storyboard in Resources */,
 				16F2744C2646630C00E824FB /* Assets.xcassets in Resources */,
+				16F90CA32647DCA900F47F43 /* countIcon.png in Resources */,
 				16F2744A2646630800E824FB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
